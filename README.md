@@ -12,7 +12,6 @@ Which countries are leading the switch to alternative energies and who are the n
 
 ## Results
 There is definitely a correlation between GDP and growth and development of renewable energy production. We created two linear regression models, one for 2021 and one for 2011. The 2021 model had a higher accuracy score (70.6%) than the 2011 model (50.6%).
-(/main/2021%20Renewable%20GDP.csv)
 
 ## Dashboards
 We produced several dashboards for our differnt datasets for readiblity reasons. 
