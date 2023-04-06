@@ -10,6 +10,9 @@ How has energy consumption changed over time, and where are consumption trends h
 
 Which countries are leading the switch to alternative energies and who are the newest changes?
 
+## Tools Used
+Our data cleaning was mostly done via python in jupyter notebooks. Pandas covered the bulk of our work, with an honorable mention to fuzzywuzzy for a crucial fuzzy_merge. The database was setup in PostgreSQL via pgAdmin, and hosted through Amazon RDS. Actual analysis of our data was carried out using the linear_model from the scikitlearn library, and final visualizations were carried out via matplotlib and Tableau. 
+
 ## Results
 There is definitely a correlation between GDP and growth and development of renewable energy production. We created two linear regression models, one for 2021 and one for 2011. The 2021 model had a higher accuracy score (70.6%) than the 2011 model (50.6%).
 
