@@ -1,10 +1,10 @@
 # Worldwide Energy Production and Consumption
 
 ## Purpose
-The goal of this project is to show the switch to renewable energy by country and region over a 40 year period. 
+The goal of this project was to investigate a correlation between GDP and an uptick in renewable energy production. To do this, we used a linear regression model to chart renewable energy consumption in quadrillion BTUs, against GDPs converted to the US Dollar. Our data on energy consumption was procured from the U.S. Energy Administration website, and our GDP info came from The World Bank's open data resource. 
 
 ## Questions to answer
-How does GDP growth affect adoption of alternative energies?
+How does GDP growth affect adoption/proliferation of alternative energies?
 
 How has energy consumption changed over time, and where are consumption trends headed?
 
