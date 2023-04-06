@@ -27,4 +27,5 @@ We produced several dashboards for our differnt datasets for readiblity reasons.
          https://public.tableau.com/app/profile/matt.roberts6826/viz/GDP_16805755653810/Dashboard2
          This shows the change in consumption over 4 decades for the largest consumers, the US, China, the Russian Federation, and The U.S.S.R. 
 
-
+## Summary
+There was added challenge in combining our datasets from different sources, particularly as it pertains to historic data going back to the last millenium. Countries that no longer exist (U.S.S.R., East/West Germany, etc.) were handled and input differently by each source. FuzzyWuzzy turned out to be an invaluable tool, allowing us to combine the datasets with minimal information loss. All in all, our model achieved a reasonable level of accuracy for the 2021 year, but we likely wouldn't recommend it be put up for commercial use. 
