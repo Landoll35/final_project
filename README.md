@@ -13,7 +13,6 @@ Our data cleaning was mostly done via python in jupyter notebooks. Pandas covere
 
 ## Results
 There is definitely a correlation between GDP and growth/development of renewable energy production. We created two linear regression models, one for 2021 and one for 2011. The 2021 model had a higher accuracy score (70.6%) than the 2011 model (50.6%).
-!(assets/images/2011 Renewables vs GDP.png)
 
 
 ## Dashboards
